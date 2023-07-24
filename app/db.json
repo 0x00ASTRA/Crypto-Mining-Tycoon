@@ -1,0 +1,11 @@
+{
+    "gameState": {
+      "tokens": [
+        { "name": "Bitcoin", "value": 50000, "amount": 0 },
+        { "name": "Ethereum", "value": 3000, "amount": 0 }
+      ],
+      "upgrades": { "Bitcoin": 1, "Ethereum": 1 },
+      "balances": { "Bitcoin": 0, "Ethereum": 0, "USD": 10000 }
+    }
+  }
+  
